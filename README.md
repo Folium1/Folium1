@@ -1,3 +1,3 @@
 # Hi there 👋
 
-### I am a junior golang developer looking for a job😄
+### I am a golang developer looking for a job😄
